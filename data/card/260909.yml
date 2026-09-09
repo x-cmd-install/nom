@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.3.2"
   latestRelease: "v3.3.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:13:00Z
+  collectedAt: 2026-09-09T19:20:57Z
 timeline:
   created: 2022-12-21
   lastCommit: 2026-07-08
@@ -85,7 +85,7 @@ total:
   commit: 132
 ---
 path: /home/runner/.x-repo/github.com/guyfedwards/nom
-collectedAt: 2026-09-09T05:13:01Z
+collectedAt: 2026-09-09T19:21:01Z
 loc:
   Go:
     code: 3222
