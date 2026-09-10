@@ -4,7 +4,7 @@
 
 RSS reader for the terminal
 
-![nom](https://repo.x-cmd.io/nom.svg)
+![nom](https://repo.x-cmd.io/nom.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,21 @@ x install nom
 - **最新版本**: `v3.3.2` (2026-06-05)
 - **最近提交**: 2026-07-08
 - **Release 含资产**: 6 个
-- **发布时间**: 2026-06-05T11:14:22Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/guyfedwards/nom/releases/download/v3.3.2/checksums.txt) | 479 B | `other` |
+| [nom_3.3.2_darwin_amd64.tar.gz](https://github.com/guyfedwards/nom/releases/download/v3.3.2/nom_3.3.2_darwin_amd64.tar.gz) | 7.3 MiB | `native/darwin/x64` |
+| [nom_3.3.2_darwin_arm64.tar.gz](https://github.com/guyfedwards/nom/releases/download/v3.3.2/nom_3.3.2_darwin_arm64.tar.gz) | 6.8 MiB | `native/darwin/arm64` |
+| [nom_3.3.2_linux_amd64.tar.gz](https://github.com/guyfedwards/nom/releases/download/v3.3.2/nom_3.3.2_linux_amd64.tar.gz) | 7.3 MiB | `native/linux/x64` |
+| [nom_3.3.2_linux_arm64.tar.gz](https://github.com/guyfedwards/nom/releases/download/v3.3.2/nom_3.3.2_linux_arm64.tar.gz) | 6.7 MiB | `native/linux/arm64` |
+| [nom_3.3.2_windows_amd64.tar.gz](https://github.com/guyfedwards/nom/releases/download/v3.3.2/nom_3.3.2_windows_amd64.tar.gz) | 7.4 MiB | `native/win/x64` |
 
 ## 流行度
 
-- **Star**: 743 · **Fork**: 53 · **开放 issue**: 101 · **贡献者**: 25
+- **Star**: 744 · **Fork**: 53 · **开放 issue**: 101 · **贡献者**: 25
 
 ## 累计统计
 
@@ -61,4 +71,4 @@ nom 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:07:33Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:49:41Z._

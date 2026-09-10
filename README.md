@@ -22,11 +22,21 @@ x install nom
 - **Latest**: `v3.3.2` (2026-06-05)
 - **Last commit**: 2026-07-08
 - **Assets in release**: 6
-- **Published**: 2026-06-05T11:14:22Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/guyfedwards/nom/releases/download/v3.3.2/checksums.txt) | 479 B | `other` |
+| [nom_3.3.2_darwin_amd64.tar.gz](https://github.com/guyfedwards/nom/releases/download/v3.3.2/nom_3.3.2_darwin_amd64.tar.gz) | 7.3 MiB | `native/darwin/x64` |
+| [nom_3.3.2_darwin_arm64.tar.gz](https://github.com/guyfedwards/nom/releases/download/v3.3.2/nom_3.3.2_darwin_arm64.tar.gz) | 6.8 MiB | `native/darwin/arm64` |
+| [nom_3.3.2_linux_amd64.tar.gz](https://github.com/guyfedwards/nom/releases/download/v3.3.2/nom_3.3.2_linux_amd64.tar.gz) | 7.3 MiB | `native/linux/x64` |
+| [nom_3.3.2_linux_arm64.tar.gz](https://github.com/guyfedwards/nom/releases/download/v3.3.2/nom_3.3.2_linux_arm64.tar.gz) | 6.7 MiB | `native/linux/arm64` |
+| [nom_3.3.2_windows_amd64.tar.gz](https://github.com/guyfedwards/nom/releases/download/v3.3.2/nom_3.3.2_windows_amd64.tar.gz) | 7.4 MiB | `native/win/x64` |
 
 ## Popularity
 
-- **Stars**: 743 · **Forks**: 53 · **Open issues**: 101 · **Contributors**: 25
+- **Stars**: 744 · **Forks**: 53 · **Open issues**: 101 · **Contributors**: 25
 
 ## Totals (cumulative)
 
@@ -57,8 +67,8 @@ Total: **3,752** lines of code across **28** files in the top 5 languages.
 Install metadata for nom lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `nom` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/nom.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/nom.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:07:33Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:49:41Z._
