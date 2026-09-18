@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7170117,
       "digest": "sha256:970670c6bcd9a5ae38bf783148f35a651e2e5f2fd8f5e2cfdf91d1eb303a7c93",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2026-06-05T11:14:19Z",
       "updated_at": "2026-06-05T11:14:20Z",
       "browser_download_url": "https://github.com/guyfedwards/nom/releases/download/v3.3.2/nom_3.3.2_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 7614141,
       "digest": "sha256:ae6064937a8d279a1138808657c8ff70a1a342f8d4fee0fb6c7f762ec1c00cd9",
-      "download_count": 181,
+      "download_count": 182,
       "created_at": "2026-06-05T11:14:19Z",
       "updated_at": "2026-06-05T11:14:20Z",
       "browser_download_url": "https://github.com/guyfedwards/nom/releases/download/v3.3.2/nom_3.3.2_linux_amd64.tar.gz"
