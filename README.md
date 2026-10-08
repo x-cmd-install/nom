@@ -14,11 +14,11 @@ x install nom
 
 ## Code insight
 
-Total: **3,752** lines of code across **28** files in the top 5 languages.
+Total: **3,791** lines of code across **28** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 3,222 | 93 | 601 | 21 |
+| Go | 3,261 | 93 | 602 | 21 |
 | Xml | 334 | 0 | 3 | 1 |
 | Yaml | 130 | 0 | 6 | 4 |
 | Makefile | 51 | 1 | 12 | 1 |
@@ -31,39 +31,39 @@ Total: **3,752** lines of code across **28** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v3.3.2` (2026-06-05)
-- **Last commit**: 2026-07-08
+- **Latest**: `v3.3.3` (2026-10-07)
+- **Last commit**: 2026-10-07
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 749 · **Forks**: 55 · **Open issues**: 101 · **Contributors**: 25
+- **Stars**: 749 · **Forks**: 56 · **Open issues**: 101 · **Contributors**: 26
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 92 · **Open PRs**: 5 · **Closed issues**: 70 · **Open issues**: 31 · **Commits**: 132
+- **Releases**: 58 · **Merged PRs**: 93 · **Open PRs**: 5 · **Closed issues**: 70 · **Open issues**: 31 · **Commits**: 133
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-08-08 | 0 | 0 | 3 | 0 | 0 | 0 |
-| 90d | 2026-07-09 | 0 | 0 | 3 | 1 | 0 | 0 |
-| last180d | 2026-04-10 | 2 | 4 | 3 | 1 | 2 | 4 |
-| 360d | 2025-10-12 | 10 | 19 | 3 | 7 | 8 | 32 |
-| last720d | 2024-10-17 | 29 | 47 | 5 | 28 | 23 | 63 |
+| 30d | 2026-09-08 | 1 | 1 | 3 | 0 | 0 | 1 |
+| last60d | 2026-08-09 | 1 | 1 | 3 | 0 | 0 | 1 |
+| 90d | 2026-07-10 | 1 | 1 | 3 | 1 | 0 | 1 |
+| last180d | 2026-04-11 | 3 | 5 | 3 | 1 | 2 | 5 |
+| 360d | 2025-10-13 | 10 | 18 | 3 | 5 | 7 | 33 |
+| last720d | 2024-10-18 | 30 | 48 | 5 | 28 | 23 | 64 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/guyfedwards/nom/releases/download/v3.3.2/checksums.txt) | 479 B | `other` |
-| [nom_3.3.2_darwin_amd64.tar.gz](https://github.com/guyfedwards/nom/releases/download/v3.3.2/nom_3.3.2_darwin_amd64.tar.gz) | 7.3 MiB | `native/darwin/x64` |
-| [nom_3.3.2_darwin_arm64.tar.gz](https://github.com/guyfedwards/nom/releases/download/v3.3.2/nom_3.3.2_darwin_arm64.tar.gz) | 6.8 MiB | `native/darwin/arm64` |
-| [nom_3.3.2_linux_amd64.tar.gz](https://github.com/guyfedwards/nom/releases/download/v3.3.2/nom_3.3.2_linux_amd64.tar.gz) | 7.3 MiB | `native/linux/x64` |
-| [nom_3.3.2_linux_arm64.tar.gz](https://github.com/guyfedwards/nom/releases/download/v3.3.2/nom_3.3.2_linux_arm64.tar.gz) | 6.7 MiB | `native/linux/arm64` |
-| [nom_3.3.2_windows_amd64.tar.gz](https://github.com/guyfedwards/nom/releases/download/v3.3.2/nom_3.3.2_windows_amd64.tar.gz) | 7.4 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/guyfedwards/nom/releases/download/v3.3.3/checksums.txt) | 479 B | `other` |
+| [nom_3.3.3_darwin_amd64.tar.gz](https://github.com/guyfedwards/nom/releases/download/v3.3.3/nom_3.3.3_darwin_amd64.tar.gz) | 7.3 MiB | `native/darwin/x64` |
+| [nom_3.3.3_darwin_arm64.tar.gz](https://github.com/guyfedwards/nom/releases/download/v3.3.3/nom_3.3.3_darwin_arm64.tar.gz) | 6.8 MiB | `native/darwin/arm64` |
+| [nom_3.3.3_linux_amd64.tar.gz](https://github.com/guyfedwards/nom/releases/download/v3.3.3/nom_3.3.3_linux_amd64.tar.gz) | 7.3 MiB | `native/linux/x64` |
+| [nom_3.3.3_linux_arm64.tar.gz](https://github.com/guyfedwards/nom/releases/download/v3.3.3/nom_3.3.3_linux_arm64.tar.gz) | 6.7 MiB | `native/linux/arm64` |
+| [nom_3.3.3_windows_amd64.tar.gz](https://github.com/guyfedwards/nom/releases/download/v3.3.3/nom_3.3.3_windows_amd64.tar.gz) | 7.4 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -74,4 +74,4 @@ Install metadata for nom lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:16:11Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:22:52Z._
