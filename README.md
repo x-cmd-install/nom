@@ -37,7 +37,7 @@ Total: **3,791** lines of code across **28** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 750 · **Forks**: 62 · **Open issues**: 102 · **Contributors**: 26
+- **Stars**: 750 · **Forks**: 56 · **Open issues**: 102 · **Contributors**: 26
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **3,791** lines of code across **28** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 1 | 1 | 3 | 0 | 1 | 1 |
-| last60d | 2026-08-21 | 1 | 1 | 3 | 0 | 1 | 1 |
-| 90d | 2026-07-22 | 1 | 1 | 3 | 1 | 1 | 1 |
-| last180d | 2026-04-23 | 3 | 5 | 3 | 1 | 3 | 5 |
-| 360d | 2025-10-25 | 9 | 15 | 3 | 4 | 7 | 26 |
-| last720d | 2024-10-30 | 30 | 48 | 5 | 28 | 23 | 64 |
+| 30d | 2026-09-21 | 1 | 1 | 3 | 0 | 1 | 1 |
+| last60d | 2026-08-22 | 1 | 1 | 3 | 0 | 1 | 1 |
+| 90d | 2026-07-23 | 1 | 1 | 3 | 1 | 1 | 1 |
+| last180d | 2026-04-24 | 3 | 5 | 3 | 1 | 3 | 5 |
+| 360d | 2025-10-26 | 9 | 15 | 3 | 4 | 7 | 26 |
+| last720d | 2024-10-31 | 30 | 48 | 5 | 28 | 23 | 64 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for nom lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:14:46Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:05:32Z._
