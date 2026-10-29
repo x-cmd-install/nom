@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 7679672,
       "digest": "sha256:8aac21f1f7ff4af3df75a18987d182b3766111cf109482f43d03f801d9802513",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-10-07T15:48:13Z",
       "updated_at": "2026-10-07T15:48:14Z",
       "browser_download_url": "https://github.com/guyfedwards/nom/releases/download/v3.3.3/nom_3.3.3_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7170079,
       "digest": "sha256:eed16c66a8d26c00a3bd9550ef62d6f53ef76450df8258d433384a9249f95466",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-07T15:48:13Z",
       "updated_at": "2026-10-07T15:48:14Z",
       "browser_download_url": "https://github.com/guyfedwards/nom/releases/download/v3.3.3/nom_3.3.3_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 7614235,
       "digest": "sha256:f09358fefdda174c456c1ec4a8a6b3cd02c2259ba8d48e1f1c9e7076039f64a1",
-      "download_count": 72,
+      "download_count": 76,
       "created_at": "2026-10-07T15:48:14Z",
       "updated_at": "2026-10-07T15:48:15Z",
       "browser_download_url": "https://github.com/guyfedwards/nom/releases/download/v3.3.3/nom_3.3.3_linux_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 7007129,
       "digest": "sha256:3894e13ffb26f226165b92f735b9910c31742341b282772693d237767f1cdeca",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-10-07T15:48:13Z",
       "updated_at": "2026-10-07T15:48:14Z",
       "browser_download_url": "https://github.com/guyfedwards/nom/releases/download/v3.3.3/nom_3.3.3_linux_arm64.tar.gz"
