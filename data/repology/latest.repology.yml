@@ -1,5 +1,17 @@
-- repo: raspbian_testing
-  subrepo: main
+- repo: nix_stable_25_11
+  srcname: nom
+  visiblename: nom
+  version: 2.20.0
+  origversion: null
+  status: outdated
+  summary: RSS reader for the terminal
+  maintainers:
+    - nadir-ishiguro@github
+    - mail@beyermatthias.de
+  licenses:
+    - GPL-3.0-only
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
   srcname: nom
   binnames:
     - nom
@@ -10,7 +22,7 @@
   maintainers:
     - holger@debian.org
   categories:
-    - misc
+    - universe/misc
 - repo: aur
   srcname: nom-bin
   binname: nom-bin
@@ -23,57 +35,6 @@
     - standingpad@aur
   licenses:
     - GPL
-- repo: raspbian_stable
-  subrepo: main
-  srcname: nom
-  binnames:
-    - nom
-  visiblename: nom
-  version: 0.1.5
-  origversion: 0.1.5-7
-  status: outdated
-  maintainers:
-    - holger@debian.org
-  categories:
-    - misc
-- repo: alpine_edge
-  subrepo: testing
-  srcname: nom
-  binname: nom
-  visiblename: nom
-  version: 2.8.0
-  origversion: 2.8.0-r14
-  status: outdated
-  summary: RSS reader for the terminal
-  maintainers:
-    - me@tuananh.org
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_edge
-  subrepo: testing
-  srcname: nom
-  binname: nom-doc
-  visiblename: nom-doc
-  version: 2.8.0
-  origversion: 2.8.0-r14
-  status: outdated
-  summary: RSS reader for the terminal (documentation)
-  maintainers:
-    - me@tuananh.org
-  licenses:
-    - GPL-3.0-or-later
-- repo: aur
-  srcname: nom
-  binname: nom
-  visiblename: nom
-  version: 3.3.3
-  origversion: 3.3.3-1
-  status: newest
-  summary: RSS reader for the terminal
-  maintainers:
-    - skellington@aur
-  licenses:
-    - GPL-3
 - repo: debian_12_backports
   subrepo: bookworm-backports/main
   srcname: nom
@@ -200,81 +161,6 @@
     - mail@beyermatthias.de
   licenses:
     - GPL-3.0-only
-- repo: nix_stable_25_11
-  srcname: nom
-  visiblename: nom
-  version: 2.20.0
-  origversion: null
-  status: outdated
-  summary: RSS reader for the terminal
-  maintainers:
-    - nadir-ishiguro@github
-    - mail@beyermatthias.de
-  licenses:
-    - GPL-3.0-only
-- repo: nix_stable_26_05
-  srcname: nom
-  visiblename: nom
-  version: 3.3.1
-  origversion: null
-  status: outdated
-  summary: RSS reader for the terminal
-  maintainers:
-    - nadir-ishiguro@github
-    - mail@beyermatthias.de
-  licenses:
-    - GPL-3.0-only
-- repo: nix_unstable
-  srcname: nom
-  visiblename: nom
-  version: 3.3.3
-  origversion: null
-  status: newest
-  summary: RSS reader for the terminal
-  maintainers:
-    - nadir-ishiguro@github
-    - mail@beyermatthias.de
-  licenses:
-    - GPL-3.0-only
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: nom
-  binnames:
-    - nom
-  visiblename: nom
-  version: 0.1.5
-  origversion: 0.1.5-7
-  status: outdated
-  maintainers:
-    - holger@debian.org
-  categories:
-    - misc
-- repo: parrot
-  subrepo: parrot/main
-  srcname: nom
-  binnames:
-    - nom
-  visiblename: nom
-  version: 0.1.5
-  origversion: 0.1.5-7
-  status: outdated
-  maintainers:
-    - holger@debian.org
-  categories:
-    - misc
-- repo: pureos_landing
-  subrepo: landing/main
-  srcname: nom
-  binnames:
-    - nom
-  visiblename: nom
-  version: 0.1.5
-  origversion: 0.1.5-7
-  status: outdated
-  maintainers:
-    - holger@debian.org
-  categories:
-    - ruby
 - repo: ubuntu_24_04
   subrepo: noble/universe
   srcname: nom
@@ -327,8 +213,70 @@
     - holger@debian.org
   categories:
     - universe/misc
-- repo: ubuntu_26_10
-  subrepo: stonking/universe
+- repo: alpine_edge
+  subrepo: testing
+  srcname: nom
+  binname: nom
+  visiblename: nom
+  version: 2.8.0
+  origversion: 2.8.0-r15
+  status: outdated
+  summary: RSS reader for the terminal
+  maintainers:
+    - me@tuananh.org
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_edge
+  subrepo: testing
+  srcname: nom
+  binname: nom-doc
+  visiblename: nom-doc
+  version: 2.8.0
+  origversion: 2.8.0-r15
+  status: outdated
+  summary: RSS reader for the terminal (documentation)
+  maintainers:
+    - me@tuananh.org
+  licenses:
+    - GPL-3.0-or-later
+- repo: aur
+  srcname: nom
+  binname: nom
+  visiblename: nom
+  version: 3.3.3
+  origversion: 3.3.3-1
+  status: newest
+  summary: RSS reader for the terminal
+  maintainers:
+    - skellington@aur
+  licenses:
+    - GPL-3
+- repo: nix_stable_26_05
+  srcname: nom
+  visiblename: nom
+  version: 3.3.1
+  origversion: null
+  status: outdated
+  summary: RSS reader for the terminal
+  maintainers:
+    - nadir-ishiguro@github
+    - mail@beyermatthias.de
+  licenses:
+    - GPL-3.0-only
+- repo: nix_unstable
+  srcname: nom
+  visiblename: nom
+  version: 3.3.3
+  origversion: null
+  status: newest
+  summary: RSS reader for the terminal
+  maintainers:
+    - nadir-ishiguro@github
+    - mail@beyermatthias.de
+  licenses:
+    - GPL-3.0-only
+- repo: parrot
+  subrepo: parrot/main
   srcname: nom
   binnames:
     - nom
@@ -339,4 +287,56 @@
   maintainers:
     - holger@debian.org
   categories:
-    - universe/misc
+    - misc
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: nom
+  binnames:
+    - nom
+  visiblename: nom
+  version: 0.1.5
+  origversion: 0.1.5-7
+  status: outdated
+  maintainers:
+    - holger@debian.org
+  categories:
+    - misc
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: nom
+  binnames:
+    - nom
+  visiblename: nom
+  version: 0.1.5
+  origversion: 0.1.5-7
+  status: outdated
+  maintainers:
+    - holger@debian.org
+  categories:
+    - ruby
+- repo: raspbian_stable
+  subrepo: main
+  srcname: nom
+  binnames:
+    - nom
+  visiblename: nom
+  version: 0.1.5
+  origversion: 0.1.5-7
+  status: outdated
+  maintainers:
+    - holger@debian.org
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: nom
+  binnames:
+    - nom
+  visiblename: nom
+  version: 0.1.5
+  origversion: 0.1.5-7
+  status: outdated
+  maintainers:
+    - holger@debian.org
+  categories:
+    - misc
