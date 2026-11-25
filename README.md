@@ -47,12 +47,12 @@ Total: **3,791** lines of code across **28** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-09-25 | 1 | 1 | 0 | 0 | 2 | 1 |
-| 90d | 2026-08-26 | 1 | 1 | 0 | 0 | 2 | 1 |
-| last180d | 2026-05-28 | 3 | 5 | 0 | 1 | 4 | 5 |
-| 360d | 2025-11-29 | 9 | 15 | 0 | 3 | 7 | 26 |
-| last720d | 2024-12-04 | 30 | 48 | 2 | 28 | 23 | 64 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-26 | 1 | 1 | 0 | 0 | 2 | 1 |
+| 90d | 2026-08-27 | 1 | 1 | 0 | 0 | 2 | 1 |
+| last180d | 2026-05-29 | 3 | 5 | 0 | 1 | 4 | 5 |
+| 360d | 2025-11-30 | 9 | 15 | 0 | 3 | 7 | 26 |
+| last720d | 2024-12-05 | 30 | 48 | 2 | 28 | 23 | 64 |
 
 ## Release assets
 
@@ -65,21 +65,6 @@ Total: **3,791** lines of code across **28** files in the top 5 languages.
 | [nom_3.3.3_linux_arm64.tar.gz](https://github.com/guyfedwards/nom/releases/download/v3.3.3/nom_3.3.3_linux_arm64.tar.gz) | 6.7 MiB | `native/linux/arm64` |
 | [nom_3.3.3_windows_amd64.tar.gz](https://github.com/guyfedwards/nom/releases/download/v3.3.3/nom_3.3.3_windows_amd64.tar.gz) | 7.4 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **29** distros on [repology.org](https://repology.org/project/nom). **3** are ✅ on the latest upstream release, **25** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.1.5` | ⚠️ outdated |
-| Debian 14 | `0.1.5` | ⚠️ outdated |
-| Debian 13 | `0.1.5` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.1.5` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `0.1.5` | ⚠️ outdated |
-| Homebrew | `3.3.3` | ✅ latest |
-| Nix unstable | `3.3.3` | ✅ latest |
-| Alpine edge | `2.8.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for nom lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `nom` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -89,4 +74,4 @@ Install metadata for nom lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:50:14Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:04:20Z._
