@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 7679672,
       "digest": "sha256:8aac21f1f7ff4af3df75a18987d182b3766111cf109482f43d03f801d9802513",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-10-07T15:48:13Z",
       "updated_at": "2026-10-07T15:48:14Z",
       "browser_download_url": "https://github.com/guyfedwards/nom/releases/download/v3.3.3/nom_3.3.3_darwin_amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 7614235,
       "digest": "sha256:f09358fefdda174c456c1ec4a8a6b3cd02c2259ba8d48e1f1c9e7076039f64a1",
-      "download_count": 157,
+      "download_count": 160,
       "created_at": "2026-10-07T15:48:14Z",
       "updated_at": "2026-10-07T15:48:15Z",
       "browser_download_url": "https://github.com/guyfedwards/nom/releases/download/v3.3.3/nom_3.3.3_linux_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 7781533,
       "digest": "sha256:30f92bcca765fc291dd8a4fb902361272a47ca92447b896c64c05caba88d2f76",
-      "download_count": 24,
+      "download_count": 25,
       "created_at": "2026-10-07T15:48:13Z",
       "updated_at": "2026-10-07T15:48:14Z",
       "browser_download_url": "https://github.com/guyfedwards/nom/releases/download/v3.3.3/nom_3.3.3_windows_amd64.tar.gz"
@@ -255,5 +255,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/guyfedwards/nom/tarball/v3.3.3",
   "zipball_url": "https://api.github.com/repos/guyfedwards/nom/zipball/v3.3.3",
-  "body": "## Changelog\n* 028e5a3ab756c638dd110fc5b0fa53d80875da9f feat: add GitHub Action to build and push container to ghcr.io (#197)\n* 62f106bab9ef96597195a3d09521565b09193893 fix: report nested OPML validation errors (#205)\n\n"
+  "body": "## Changelog\n* 028e5a3ab756c638dd110fc5b0fa53d80875da9f feat: add GitHub Action to build and push container to ghcr.io (#197)\n* 62f106bab9ef96597195a3d09521565b09193893 fix: report nested OPML validation errors (#205)\n\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/guyfedwards/nom/releases/405920905/reactions",
+    "total_count": 2,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 1,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
